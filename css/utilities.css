@@ -1,0 +1,26 @@
+/* Button */
+.btn {
+  cursor: pointer;
+  display: inline-block;
+  padding: 12px 20px;
+  color: #fff;
+  background-color: #444;
+  border: none;
+  border-radius: 5px;
+}
+.btn:hover {
+  opacity: 0.9;
+  color: #000;
+  background: #28a745;
+}
+
+.btn-primary,
+.bg-primary {
+  background: #28a745;
+  color: #fff;
+}
+.btn-secondary,
+.bg-secondary {
+  background: #0284d0;
+  color: #fff;
+}

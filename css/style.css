@@ -105,8 +105,6 @@ p {
 
 /* Header */
 .hero {
-  /* background: url("../images/header-background.jpg") no-repeat center
-    center/cover; */
   background: var(--background-primary);
   height: 100vh;
   position: relative;
@@ -284,4 +282,19 @@ footer {
   font-family: var(--ff-roboto);
   color: #fff;
   font-size: 1rem;
+}
+
+.burger {
+  display: none;
+  position: absolute;
+  cursor: pointer;
+  right: 5%;
+  top: 15px;
+}
+
+.line {
+  width: 33px;
+  background-color: white;
+  height: 4px;
+  margin: 3px 3px;
 }

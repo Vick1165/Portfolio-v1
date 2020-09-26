@@ -286,7 +286,7 @@ p {
   text-align: center;
 }
 footer {
-  height: 25vh;
+  height: 30vh;
   background: var(--background-primary);
   color: #000000;
 }

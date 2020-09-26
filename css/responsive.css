@@ -39,4 +39,8 @@
   .skill-container {
     margin: 3px;
   }
+
+  .social-icon-footer {
+    margin-top: 0;
+  }
 }

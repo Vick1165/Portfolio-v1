@@ -29,7 +29,14 @@
     max-width: 80%;
   }
 
+  .cards .desc {
+    height: 9rem;
+  }
   .actions {
     font-size: 1.1rem;
+  }
+
+  .skill-container {
+    margin: 3px;
   }
 }

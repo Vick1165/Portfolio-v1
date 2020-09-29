@@ -19,6 +19,10 @@
     align-items: center;
   }
 
+  .nav-list a {
+    font-size: 1.5rem;
+  }
+
   .active {
     display: flex;
   }

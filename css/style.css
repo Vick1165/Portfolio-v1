@@ -90,7 +90,7 @@ p {
   margin: 0 5px;
 }
 
-.navbar a:hover {
+.nav-list a:hover {
   border-bottom: #28a745 2px solid;
 }
 
@@ -352,13 +352,13 @@ footer {
 
 .toggle-button {
   position: absolute;
-  top: 0.75rem;
+  top: 0.8rem;
   right: 1rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  width: 33px;
-  height: 23px;
+  width: 40px;
+  height: 28px;
 }
 
 .toggle-button .bar {

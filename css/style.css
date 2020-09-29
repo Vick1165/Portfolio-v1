@@ -242,7 +242,7 @@ p {
   background-repeat: no-repeat;
 }
 .image {
-  height: 350px;
+  height: 250px;
   width: auto;
 }
 
@@ -261,7 +261,7 @@ p {
 .cards .desc {
   font-size: 0.8rem;
   padding: 0.8rem;
-  height: 7rem;
+  height: 8rem;
 }
 
 .skills-center {
@@ -286,7 +286,7 @@ p {
   text-align: center;
 }
 footer {
-  height: 30vh;
+  /* height: 30vh; */
   background: var(--background-primary);
   color: #000000;
 }

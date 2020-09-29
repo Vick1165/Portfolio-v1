@@ -1,8 +1,31 @@
-@media only screen and (max-width: 990px) {
-  .navbar {
-    flex-direction: column;
+@media only screen and (max-width: 600px) {
+  .toggle-button {
+    display: flex;
   }
 
+  .nav1 {
+    display: none;
+
+    width: 100%;
+  }
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .nav-list {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+  }
+
+  .active {
+    display: flex;
+  }
+
+  /* .nav1 .active {
+    display: flex;
+  } */
   .navbar .logo {
     margin-top: 10px;
   }
